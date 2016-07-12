@@ -1,0 +1,185 @@
+body {
+    background-color: rgb(100, 106, 115);
+    left: 0px;
+    margin: 0px;
+    padding: 10px;
+}
+#imagem_cama, #imagem_sofa{
+    width: 300px;
+    height: 259px;
+    position: absolute;
+    top: 40px;
+    left: 35px;
+}
+
+#h1_sistema {
+    position: absolute;
+    top: -012px;
+    left: 60px;
+    color: white;
+    font-family: Ubuntu, sans-serif;
+    font-size: 40px;
+}
+
+.h1 {
+    position: absolute;
+    bottom: 0px;
+    left: 30px;
+    font-family: Ubuntu, sans-serif;
+    font-size: 40px;
+    border-radius: 4px;
+    text-shadow: 1px 1px white, -1px -1px #333;
+    color: #ddd;
+}
+
+#menu {
+    position: absolute;
+    height: 590px;
+    width: 1010px;
+    border-radius: 4px;
+    box-shadow: 0px 0px 12px 2px rgba(0, 0, 0, 1);
+    background-color: rgba(23, 25, 32, 1);
+    margin-top: 0px;
+}
+
+#grade_sistema {
+    position: absolute;
+    height: 520px;
+    width: 990px;
+    border-radius: 1%;
+    box-shadow: 0px 0px 12px 2px rgba(0, 0, 0, 1);
+    background-color: rgb(68, 26, 26);
+    left: 10px;
+    top: 60px;
+}
+
+#grade_sistema_tudo {
+    position: absolute;
+    height: 520px;
+    width: 990px;
+    border-radius: 1%;
+    box-shadow: 0px 0px 12px 2px rgba(0, 0, 0, 1);
+    background-color: rgb(68, 26, 26);
+    left: 10px;
+    bottom: 10px;
+}
+
+#grade_timer {
+    left: 30px;
+    top: 30px;
+}
+
+#grade_tudo {
+    right: 30px;
+    top: 30px;
+}
+
+b {
+    position: absolute;
+    background-color: white;
+    width: 46px;
+    height: 10px;
+    border-radius: 5px;
+    right: 10px;
+}
+
+#um {
+    top: 34px;
+}
+
+#dois {
+    top: 22px;
+}
+
+#tres {
+    top: 10px;
+}
+
+#div_menu {
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    top: 0px;
+    left: 820px;
+}
+
+#p_go_top {
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-family: Ubuntu,sans-serif;
+    bottom: 0px;
+    right: 20px;
+    border-radius: 50%;
+    border: 3px solid white;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+#fundo_tudo {
+    left: 70px;
+    top: 76px;
+}
+
+#fundo_timer {
+    right: 70px;
+    top: 76px;
+}
+
+#fundo_sala {
+    right: 70px;
+    top: 76px;
+}
+
+#fundo_quarto {
+    left: 70px;
+    top: 76px;
+}
+
+.imagem {
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    height: 368px;
+    width: 368px;
+    border-radius: 1%;
+}
+
+.botao {
+    position: absolute;
+    left: 4px;
+    top: 4px;
+    height: 370px;
+    width: 370px;
+    border-radius: 1%;
+    background-color: black;
+    box-shadow: 0px 3px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+.fundo {
+    position: absolute;
+    height: 378px;
+    width: 378px;
+    border-radius: 2%;
+    /*box-shadow: 0px 3px 8px 3px rgba(, 0, 0, 0.5);*/
+    background-color: rgb(24, 24, 24);
+}
+
+#fundo_clima {
+    position: absolute;
+    left: 1024px;
+    top: 10px;
+    background-color: rgb(68, 26, 26);
+    width: 140px;
+    height: 190px;
+    box-shadow: 0px 3px 4px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 2%;
+}
+
+#titulo_quarto {
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+}
+
